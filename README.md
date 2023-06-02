@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaswarpurohit
 - 👀 I’m interested in AI/ML, JavaScript, Web
-- 🌱 I’m currently learning C#, Rust
+- 🌱 I’m currently learning Python, Rust
 - 💞️ I’m looking to collaborate on Web Projects/Games
 - 📫 How to reach me bhaswarpurohit@gmail.com
 
